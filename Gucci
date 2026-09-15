@@ -172,7 +172,7 @@ end)
 local Window = Library:CreateWindow({
     Title = "GVL HVH",
     Footer = "by phantom_GVLxTSWxNFL ",
-    Icon = 116176143011396,
+    Icon = 97500894038545,
     NotifySide = "Right",
     ShowCustomCursor = false,
     EnableCompacting = true,
