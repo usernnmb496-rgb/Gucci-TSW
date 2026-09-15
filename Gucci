@@ -2532,8 +2532,8 @@ end
 -- ═══════════════════════════════════════════════════════════
 -- ⚡ XOCU EXTRAS (Ragdoll / Anti helpers) — MERGED INTO KICKS
 -- ═══════════════════════════════════════════════════════════
-local XocuExtrasGroup = Tabs.Kicks9rr:AddRightGroupbox(", "sparkles")
-XocuExtrasGroup:AddLabel("")
+local XocuExtrasGroup = Tabs.Kicks9rr:AddRightGroupbox("other, "sparkles")
+XocuExtrasGroup:AddLabel("ragdoll other")
 XocuExtrasGroup:AddDivider()
 
 -- AllowedItems for "Remove Anti Input Lag"
